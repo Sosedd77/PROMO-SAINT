@@ -6,7 +6,6 @@ background:#200000;
 overflow-x:hidden;
 }
 
-/* Фон */
 .animated-bg{
 position:fixed;
 width:100%;
@@ -23,7 +22,6 @@ z-index:-2;
 100%{background-position:0% 50%}
 }
 
-/* Золотые точки */
 .particles{
 position:fixed;
 width:100%;
@@ -40,7 +38,6 @@ from{background-position:0 0;}
 to{background-position:0 1000px;}
 }
 
-/* Главная */
 .main-container{
 height:100vh;
 display:flex;
@@ -84,7 +81,6 @@ text-decoration:none;
 border-radius:30px;
 }
 
-/* Страница бонусов */
 .bonus-header{
 text-align:center;
 padding:60px 20px 30px 20px;
